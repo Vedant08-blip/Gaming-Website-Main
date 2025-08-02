@@ -78,3 +78,4 @@ npm run dev
 Vedant Trivedi — MCA student and full-stack web developer building polished, animated experiences.
 I’m focused on combining frontend craftsmanship with modern animation to create interfaces that feel alive.
 Find more of my work on GitHub.
+
